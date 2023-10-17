@@ -14,3 +14,4 @@ def gen_txt(result):
     f = open('output.txt', 'w')
     f.write(result)
     f.close()
+
